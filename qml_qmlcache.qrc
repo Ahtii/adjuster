@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<RCC>
+    <qresource prefix="/"/>
+    <qresource prefix="/files">
+        <file alias="images/adjuster.png">images/adjuster.png</file>
+        <file alias="images/drawer.png">images/drawer.png</file>
+        <file alias="images/back.png">images/back.png</file>
+        <file alias="images/cur_time.PNG">images/cur_time.PNG</file>
+        <file alias="images/target_time.PNG">images/target_time.PNG</file>
+        <file alias="images/initial_time.PNG">images/initial_time.PNG</file>
+        <file alias="images/main_window.PNG">images/main_window.PNG</file>
+        <file alias="images/cur_brightness.PNG">images/cur_brightness.PNG</file>
+        <file alias="images/adjust.PNG">images/adjust.PNG</file>
+        <file alias="images/min_max_settings.PNG">images/min_max_settings.PNG</file>
+        <file alias="images/settings_window.PNG">images/settings_window.PNG</file>
+        <file alias="images/day_settings.PNG">images/day_settings.PNG</file>
+        <file alias="images/night_settings.PNG">images/night_settings.PNG</file>
+        <file alias="images/settings.png">images/settings.png</file>
+        <file alias="images/help.png">images/help.png</file>
+        <file alias="images/about.png">images/about.png</file>
+    </qresource>
+</RCC>

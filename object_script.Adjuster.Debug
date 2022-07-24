@@ -1,0 +1,10 @@
+debug/main.o
+debug/adjuster.o
+debug/qrc_qml_qmlcache.o
+debug/MainForm.ui_qml.o
+debug/help_qml.o
+debug/about_qml.o
+debug/main_qml.o
+debug/settings_qml.o
+debug/qmlcache_loader.o
+debug/moc_adjuster.o

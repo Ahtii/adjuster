@@ -1,0 +1,10 @@
+release/main.o
+release/adjuster.o
+release/qrc_qml_qmlcache.o
+release/MainForm.ui_qml.o
+release/help_qml.o
+release/about_qml.o
+release/main_qml.o
+release/settings_qml.o
+release/qmlcache_loader.o
+release/moc_adjuster.o

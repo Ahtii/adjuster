@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainForm.ui.qml</file>
+        <file>about.qml</file>
+        <file>settings.qml</file>
+        <file>help.qml</file>
+    </qresource>
+    <qresource prefix="/files">
+        <file>images/adjuster.png</file>
+        <file>images/drawer.png</file>
+        <file>images/back.png</file>
+        <file>images/cur_time.PNG</file>
+        <file>images/target_time.PNG</file>
+        <file>images/initial_time.PNG</file>
+        <file>images/main_window.PNG</file>
+        <file>images/cur_brightness.PNG</file>
+        <file>images/adjust.PNG</file>
+        <file>images/min_max_settings.PNG</file>
+        <file>images/settings_window.PNG</file>
+        <file>images/day_settings.PNG</file>
+        <file>images/night_settings.PNG</file>
+        <file>images/settings.png</file>
+        <file>images/help.png</file>
+        <file>images/about.png</file>
+    </qresource>
+</RCC>
